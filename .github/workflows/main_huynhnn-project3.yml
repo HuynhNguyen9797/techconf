@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'huynhnn-project3'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4A61C3C262474966B0A13C6EF31D0930 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BC2E86558F0446F3B5C6C243100DCC8E }}
